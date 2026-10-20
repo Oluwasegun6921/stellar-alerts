@@ -1,0 +1,18 @@
+{
+  "default_branch": "contribution",
+  "branches": [
+    "contribution",
+    "feat/issue-758-150-pts-cli-colorized-ansi-activity-heatmap",
+    "origin"
+  ],
+  "parent": {
+    "contribution": null,
+    "feat/issue-758-150-pts-cli-colorized-ansi-activity-heatmap": "contribution",
+    "origin": "contribution"
+  },
+  "order": [
+    "contribution",
+    "feat/issue-758-150-pts-cli-colorized-ansi-activity-heatmap",
+    "origin"
+  ]
+}
